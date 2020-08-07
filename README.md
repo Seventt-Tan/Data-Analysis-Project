@@ -5,12 +5,12 @@ This project and it's dataset was designed for a ML competition. Goal is to pred
 ## DATA Description
 
 Column Names (only about those with confusion)
-xxxx_add_value = items purchased
-xxxx_reduce_value = items used
-PVP = people vs peple
-PVE = people vs environment
-pay_price = amount users paid within 7 days
-prediciton_pay_price = predicted amount users paid within 45 days
+    xxxx_add_value = items purchased__
+    xxxx_reduce_value = items used
+    PVP = people vs peple
+    PVE = people vs environment
+    pay_price = amount users paid within 7 days
+    prediciton_pay_price = predicted amount users paid within 45 days
 
 
 ### Analysis Framework
