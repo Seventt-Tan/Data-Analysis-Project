@@ -16,19 +16,19 @@ Column Names (only about those with confusion)
 ### Analysis Framework
 
 Note: Analysis is not based on conventional AARRR model or PRAPA model due to limitation of the dataset given.
-- 1. New User Analysis
+- 1.New User Analysis
     - 1.1 Registration metrics by Month/Weekday/Day
     - 1.2 New user conversion Rate
     - 1.3 New user active analysis
-- 2. Revenue Analysis
+- 2.Revenue Analysis
     - 2.1 Key Metrics: APPU/ARPPU
     - 2.2 Pay frequency per day
     - 2.3 Pay conversion rate vs. Building stronghold level
-- 3. Content Analysis
+- 3.Content Analysis
     - 3.1 Paid user vs unpaid user under PVP & PVE mode
     - 3.2 Resource and Acceleration Item Usage
     - 3.3 Whales vs Others
-- 4. Conclusion and Reccomendation
+- 4.Conclusion and Recommendation
 
 ### Machine Learning Framework
 
