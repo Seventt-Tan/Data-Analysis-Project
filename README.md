@@ -10,7 +10,7 @@ Column Names (only about those with confusion)
 - PVP = people vs peple
 - PVE = people vs environment
 - pay_price = amount users paid within 7 days
-- prediciton_pay_price = predicted amount users paid within 45 days
+- prediciton_pay_price = amount users paid within 45 days
 
 
 ### Analysis Framework
