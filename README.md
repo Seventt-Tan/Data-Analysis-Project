@@ -31,8 +31,8 @@ Note: Analysis is not based on conventional AARRR model or PRAPA model due to li
 - 4.Conclusion and Recommendation
 
 ### Machine Learning Framework
-
-    TBC
+    User Classification updated using K-means clustering. 
+    Prediction TBC
 
 ## Acknowledgments
 
